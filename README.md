@@ -12,4 +12,4 @@ DURATION : 4WEEKS
 
 MENTOR : NEELA SANTHOSH KUMAR
 
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/75950efb-2043-4cfd-8962-a71a55bb5969)
